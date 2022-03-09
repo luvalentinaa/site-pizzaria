@@ -1,4 +1,7 @@
-#  Site pizzaria 🍕 [<img src="src/img/logo.png">]
+#  Site pizzaria 🍕 [ <img src="src/img/folha2.png"> ]
+[
+<img src="src/img/logo-pizzaria.png">
+]
 ## Site usando de pizzaria com seção testemunhas com carrossel , 
 ### Linguagens usadas 
 - HTML
