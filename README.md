@@ -3,12 +3,12 @@
 [
 <img src="src/img/logo-pizzaria.png">
 ]
-## Site de pizzaria com seção testemunhas feito com carrossel , 
-### Linguagens usadas 
+## Site de pizzaria com seção testemunhas com carrossel , usando Jquery. 
+### Linguagens utilisadas. 
 - HTML
 - CSS
 - JS
-- boo
+- JQUERY
 
 [
 <img src="gif_pizzaria.gif">
