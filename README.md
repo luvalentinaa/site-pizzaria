@@ -1,5 +1,4 @@
 #  Site pizzaria 🍕 
-[ <img src="src/img/pizza-rodape.png"> ]
 [
 <img src="src/img/logo-pizzaria.png">
 ]
